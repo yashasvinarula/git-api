@@ -18,9 +18,12 @@ input:focus{
   width: 50% !important;
 }
 
-.btn-floating{
-  width: 60px !important;
-  height: 60px !important;
+.button-home{
+  height: 56px !important;
+  width: 56px !important;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 14px;
 }
 
 @media only screen and (max-width: 800px) {
