@@ -49,7 +49,7 @@ class Profile extends Component {
       <div className = "container">
         <div className="row"></div>
         <div className="row"></div>
-        <a onClick = {this.onHomeClick} class="btn-floating btn-large waves-effect waves-light right red"><i class="material-icons">home</i></a>
+        <a onClick = {this.onHomeClick} class="button-home right red"><i class="material-icons">home</i></a>
         <div className="row"></div>
         <div className="card-panel">
           <center>
